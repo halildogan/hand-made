@@ -1,1 +1,1 @@
-# hand-made
+## lapadi ecommerce hand made template
