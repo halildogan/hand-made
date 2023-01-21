@@ -1,0 +1,19 @@
+{
+  "name": "hand-made",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halildogan/hand-made.git"
+  },
+  "author": "Halil Dogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halildogan/hand-made/issues"
+  },
+  "homepage": "https://github.com/halildogan/hand-made#readme"
+}
